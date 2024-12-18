@@ -1,5 +1,9 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
+title: Huang Shi's Lab
+description: Dr. HUANG Shi is an assistant professor in the Faculty of Dentistry, the University of Hong Kong. He has been engaged in microbiome research for over 10 years and made significant contributions in many frontiers in microbiome science. Firstly, he established a range of microbiome-based indices for the diagnosis and prediction of chronic diseases (such as dental caries, periodontal disease, gut health, skin health, aging, etc.). He first demonstrated that the onset of chronic diseases (e.g., dental caries) can be predicted by the human microbiome before the emergence of clinical symptoms. Secondly, he’s been focused on the basic metagenomics method development for years and is also an expert in benchmarking bioinformatic tools for metagenomics. To address the challenging low-biomass issue, he pioneered in developing a novel metagenomic sequencing strategy (i.e., 2bRAD-M), enabling the species-resolved, cost-effective microbiota profiling of challenging clinical samples (such as, FFPE tumor tissue, etc.). Last but not least, he has been actively exploiting the adaptive co-evolution between ingested probiotic bacteria and resident gut microbiota and developing personalized probiotic solutions that offer long-lasting efficacious probiotics for human health. In recent years, he published >40 research papers in peer-reviewed journals, including 20 first- or corresponding-authored papers published in Nature Methods, Cell Host Microbe, Microbiome, Genome Biology, ISMEJ, etc. His H-index has reached 37. His research has been funded by NSFC, HMRF, etc. He has five authorized microbiome-related patents (two international patents). He is also serving as a journal editor for iMeta, mSystems, Innovation, etc.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+
